@@ -1,0 +1,6 @@
+# Databases
+*.rdb
+
+# Variable and Project files
+*.iml
+var/
