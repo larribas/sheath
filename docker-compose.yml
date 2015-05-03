@@ -1,0 +1,18 @@
+nginx:
+  image: nginx:1.9
+  links:
+    - sheathe
+  ports:
+    - "80:80"
+  volumes:
+    - ./etc/nginx/nginx.conf:/etc/nginx/nginx.conf
+
+sheathe:
+  image: sheathe
+  links:
+   - redis
+  ports:
+   - "1827:1827"
+
+redis:
+  image: redis:2.8
