@@ -1,12 +1,12 @@
-package main // import "github.com/medbook/sheath"
+package main // import "github.com/MedBrain/sheath"
 
 import (
-	"github.com/medbook/sheath/application"
-	"github.com/medbook/sheath/notifiers/null"
-	"github.com/medbook/sheath/ports/httpapi"
-	"github.com/medbook/sheath/storage/redis"
-	"github.com/medbook/sheath/validators/collection"
-	"github.com/medbook/sheath/validators/protocol"
+	"github.com/MedBrain/sheath/application"
+	"github.com/MedBrain/sheath/notifiers/null"
+	"github.com/MedBrain/sheath/ports/httpapi"
+	"github.com/MedBrain/sheath/storage/redis"
+	"github.com/MedBrain/sheath/validators/collection"
+	"github.com/MedBrain/sheath/validators/protocol"
 )
 
 // SheathApp defines and exposes the topology (the particular implementations running on each interface)

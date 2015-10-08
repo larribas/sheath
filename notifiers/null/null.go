@@ -1,7 +1,7 @@
 package null
 
 import (
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // Notifier represents a notifier that does nothing with the events it receives

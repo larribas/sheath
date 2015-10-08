@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // CreateLink receives a raw URL and the request issuing the use case, validates the link and stores it.

@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // GenericLinkRepositoryTest receives a testing type and a particular LinkRepository implementation, and submits it

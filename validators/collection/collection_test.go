@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/medbook/sheath/application"
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 type DumbValidator int

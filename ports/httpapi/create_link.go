@@ -3,7 +3,7 @@ package httpapi
 import (
 	"net/http"
 
-	"github.com/medbook/sheath/application"
+	"github.com/MedBrain/sheath/application"
 )
 
 func createLink(app *application.App, w http.ResponseWriter, r *http.Request) {

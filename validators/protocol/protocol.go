@@ -4,7 +4,7 @@ package protocol
 import (
 	"fmt"
 
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // Validator contains a whitelist of allowed protocol schemes, and validates a Link based on it

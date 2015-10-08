@@ -5,8 +5,8 @@ import (
 	"bytes"
 
 	"fmt"
-	"github.com/medbook/sheath/application"
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // Collection maps validator names to particular validators with the purpose of executing them altogether

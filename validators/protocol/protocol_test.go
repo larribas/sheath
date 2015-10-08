@@ -3,7 +3,7 @@ package protocol
 import (
 	"testing"
 
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 func TestValidateEmptyScheme(t *testing.T) {

@@ -3,7 +3,7 @@
 package application
 
 import (
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // App defines the use cases available to a Sheath application, along with the topology

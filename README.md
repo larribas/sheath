@@ -1,4 +1,4 @@
-# Sheath [![Build Status](https://semaphoreci.com/api/v1/projects/1d052568-9ffd-4166-ab9b-1ad76917a1c3/425484/badge.svg)](https://semaphoreci.com/medbook/sheath)      
+# Sheath [![Build Status](https://semaphoreci.com/api/v1/projects/1d052568-9ffd-4166-ab9b-1ad76917a1c3/425484/badge.svg)](https://semaphoreci.com/medbrain/sheath)      
 
 Sheath is a URL shortening service built with Go, focused on high adaptability.
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/medbook/sheath/application"
+	"github.com/MedBrain/sheath/application"
 
 	"github.com/bmizerany/pat"
 )

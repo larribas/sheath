@@ -1,7 +1,7 @@
 package application
 
 import (
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // A Validator is a way to enforce a certain policy on the kind of URLs the application handles.

@@ -3,7 +3,7 @@ package inmemory
 import (
 	"testing"
 
-	"github.com/medbook/sheath/test"
+	"github.com/MedBrain/sheath/test"
 )
 
 func TestLinkRepository(t *testing.T) {

@@ -1,7 +1,7 @@
 package application
 
 import (
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 	"net/http"
 )
 

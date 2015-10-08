@@ -1,7 +1,7 @@
 package application
 
 import (
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // A Notifier is an output port to notify external applications of event domains that sprung from Sheath.

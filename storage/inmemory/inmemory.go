@@ -5,7 +5,7 @@ package inmemory
 import (
 	"net/url"
 
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 // LinkRepository holds a map of link stubs onto their original URLs,

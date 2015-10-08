@@ -7,7 +7,7 @@ import (
 	"log"
 
 	"github.com/fzzy/radix/redis"
-	"github.com/medbook/sheath/application/domain"
+	"github.com/MedBrain/sheath/application/domain"
 )
 
 var (
@@ -17,7 +17,7 @@ var (
 
 // RedisPrefix is used in all calls to redis to provide a particular namespace for Sheath,
 // in the event that the same Redis cluster is being shared by multiple applications
-const RedisPrefix = "github.com/medbook/sheath#"
+const RedisPrefix = "github.com/MedBrain/sheath#"
 
 // LinkRepository connects to a Redis database via a lazily instantiated client,
 // and uses it to store and retrieve links under its own namespace
